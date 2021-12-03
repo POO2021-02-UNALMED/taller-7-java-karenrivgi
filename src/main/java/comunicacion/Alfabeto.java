@@ -20,7 +20,7 @@ public class Alfabeto extends Pictograma {
 
 	@Override
 	public String toString() {
-		String alfabeto = null;
+		String alfabeto = "";
 		for (int i = 0; i< this.getLetras().length; i++) {
 				alfabeto += this.getLetras()[i];
 				if (i != this.getLetras().length -1) {
