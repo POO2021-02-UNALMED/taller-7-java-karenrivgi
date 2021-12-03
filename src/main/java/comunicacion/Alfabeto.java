@@ -1,3 +1,4 @@
+package comunicacion;
 import java.util.ArrayList;
 public class Alfabeto extends Pictograma {
 
